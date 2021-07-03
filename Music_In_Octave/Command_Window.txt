@@ -1,0 +1,7 @@
+%this are commands that we can use in order to see the actual figure of each file
+
+figure; 
+subplot(3,1,1), plot(y1); 
+subplot(3,1,2), plot(y2); 
+subplot(3,1,3), plot(y3); 
+subplot(3,1,3), plot(y4); 
