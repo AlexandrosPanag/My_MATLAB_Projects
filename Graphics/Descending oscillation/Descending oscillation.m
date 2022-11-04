@@ -1,10 +1,13 @@
+%
+% By Alexandros Panagiotakopoulos
+%
 D = load('Stashu Kozlowski DHM.mat');                                           % File Attached
 x = D.x*500;
 y = D.y*8;
 y = detrend(y);                                                                 % Remove Linear Trend
 yu = max(y);
 yl = min(y);
-yr = (yu-yl);                                                                   % Range of ‘y’
+yr = (yu-yl);                                                                   % Range of â€˜yâ€™
 yz = y-yu+(yr/2);
 zci = @(v) find(v(:).*circshift(v(:), [-1 0]) <= 0);                            % Returns Approximate Zero-Crossing Indices Of Argument Vector
 zt = x(zci(y));
