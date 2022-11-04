@@ -1,3 +1,6 @@
+%
+% By Alexandros Panagiotakopoulos
+%
 fid = fopen('letters.txt', 'wt');
 N = 100;
 for i=1:N
