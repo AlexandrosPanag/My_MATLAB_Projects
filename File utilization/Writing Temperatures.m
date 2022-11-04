@@ -1,3 +1,7 @@
+%
+% By Alexandros Panagiotakopoulos
+%
+
 clc; clear;
 fid = fopen('temperatures.txt', 'wt');
 N = 20;
