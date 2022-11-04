@@ -1,3 +1,7 @@
+%
+% By Alexandros Panagiotakopoulos
+%
+
 pkg load communications
 pkg load image
 #a:1, b:2, c:3, d:4
