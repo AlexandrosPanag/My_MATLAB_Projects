@@ -9,8 +9,7 @@ for i=1:max
 x(i)=randi([-9 9])
 end
 
-
-%finding the subarray using BRUTE FORCE
+%finding the element
  maxval = x(1);
  for ii = 1:length(x)
     if x(ii) > maxval
