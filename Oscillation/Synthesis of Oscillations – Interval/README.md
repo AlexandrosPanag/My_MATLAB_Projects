@@ -17,5 +17,5 @@ Frequencies f1 = 20 and f1 = 21
 
 Time: from 0 to 6 per 0.01
 
-This work was given to me as an academic assignment during the academic year 2021-2022 in the Lesson of Biomedical Technology in the University of Ioannina Department of Informatics & Telecommunications.
+This work was given to me as an academic assignment during the academic year 2021-2022 in the Lesson of Biomedical Technology [705] in the University of Ioannina Department of Informatics & Telecommunications.
 
