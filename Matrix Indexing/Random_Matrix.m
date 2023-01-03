@@ -1,5 +1,5 @@
 %
-% By Alexandros Panagiotakopoulos
+% By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 %
 
 r = rand(3)   %creating a random array 3x3 (1-Dimensional)
