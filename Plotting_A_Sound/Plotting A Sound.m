@@ -1,5 +1,5 @@
 %
-% By Alexandros Panagiotakopoulos
+% By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 %
 
 % WARNING : keep the volume down or it may damage your ears!!
