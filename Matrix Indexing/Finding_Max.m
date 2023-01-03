@@ -1,4 +1,6 @@
-# By Alexandros Panagiotakopoulos
+%
+% By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+%
 
 clc; clear;
 
