@@ -1,4 +1,7 @@
-Damped Harmonic Motion Curve Fit (Declining Oscillation): The equation of displacement x as a function of time t in a
+Damped Harmonic Motion Curve Fit (Declining Oscillation):
+------
+
+The equation of displacement x as a function of time t in a
 simple harmonic oscillation is given by the relation:
 x = A ημωt or x = A ημ(2πf t) (1)
 where A is the amplitude of the oscillation and f is its frequency.
