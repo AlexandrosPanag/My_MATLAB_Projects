@@ -1,3 +1,7 @@
+Multiple_Plots
+-------------------
+
+
 Write a program in which:
 i) define two signals x1 and x2 of the same length as one-dimensional arrays of your choice,
 ii) to find the maximum value of each signal,
