@@ -1,4 +1,6 @@
-# By Alexandros Panagiotakopoulos
+%
+% By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+%
 
 # USEFUL SOURCES THAT WERE USED: https://www.alphacodingskills.com/c/pages/c-program-maximum-subarray-problem.php
 # USEFUL LINK THAT WAS USED:https://doi.org/10.1016/s1571-0661(04)00313-5
