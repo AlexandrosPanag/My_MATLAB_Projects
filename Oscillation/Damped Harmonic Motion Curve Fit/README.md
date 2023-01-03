@@ -21,3 +21,5 @@ Initial width A0 = 10
 Frequency f = 2
 Damping constant Λ = 0.4
 Time: from 0 to 5 per 0.01
+
+This work was given to me as an academic assignment during the academic year 2021-2022 in the Lesson of Biomedical Technology [705] in the University of Ioannina Department of Informatics & Telecommunications.
