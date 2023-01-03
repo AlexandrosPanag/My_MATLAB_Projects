@@ -1,6 +1,7 @@
 %
-% By Alexandros Panagiotakopoulos
+% By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 %
+
 fid = fopen('letters.txt', 'wt');
 N = 100;
 for i=1:N
