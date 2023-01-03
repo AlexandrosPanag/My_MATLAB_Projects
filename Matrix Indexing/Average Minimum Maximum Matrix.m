@@ -1,6 +1,7 @@
 %
-% By Alexandros Panagiotakopoulos
+% By Alexandros Panagiotakopoulos - alexandrospanag.github.io
 %
+
 function ave = average(z)
      z = 1:99; %declaring the array again to avoid octave bugs
     ave = sum(z(:))/numel(z); %finding the average value
