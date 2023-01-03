@@ -1,3 +1,6 @@
+%
+% By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+%
 
 [y1,Fs1] = audioread('OCTAVE_bass.wav');
 [y2,Fs2] = audioread('OCTAVE_drums.wav');
