@@ -1,3 +1,7 @@
+%
+% By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+%
+
 pkg load image
 
 X = 0  %we declare the letter X
