@@ -20,6 +20,9 @@ Finding Negatives, Positive & Zeroes
 
 A program that uses a function in order to find positive elements , negative elements and elements that are equal to zero 
 
+LU Factorization With Pivotting
+------
+In linear algebra, LU Decomposition, i.e., lower–upper (LU) decomposition or factorization of a matrix, can be defined as the product of a lower and an upper triangular matrices. This is my solution to the problem.
 
 Finding Max
 ------
