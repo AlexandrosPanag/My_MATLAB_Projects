@@ -4,6 +4,12 @@ Compute Inverse Matrix
 A program which can assist the user to find the Inverse of a Matrix (without the inv() command)
 Finding the Average
 
+Basic Matrix Operations
+----
+
+A program that aims to showcase a few Matrix operations
+
+
 Finding the Average
 -----
 
