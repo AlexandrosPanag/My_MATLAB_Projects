@@ -23,5 +23,9 @@ GNU Octave is also freely redistributable software. You may redistribute it and/
 This article was taken from & can be found here : https://octave.org/about
 
 
+| Compiler/IDE | Download Link |
+| --------------- | ---------------- |
+| GNU Octave | [Download Link](https://www.gnu.org/software/octave/download) |
 
-Program Used : https://www.gnu.org/software/octave/download
+
+
