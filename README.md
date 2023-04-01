@@ -3,6 +3,10 @@ My Octave & MATLAB Projects
 
 <img src="https://img.shields.io/bower/l/mi">
 
+
+Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
+
 Most of my programs (if not all) are GNU Octave and MATLAB Compatible
 
 ---------------
